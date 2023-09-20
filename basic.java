@@ -11,7 +11,7 @@ public class basic {
         String friend = neighbour;
         System.out.println(age);
 
-        System.out.println(n);
+        System.out.println(name);
         System.out.println(friend);
         char letter = 'n';
         boolean yes = true;
